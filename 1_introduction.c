@@ -106,7 +106,7 @@ void main()
 //10 A is
 //A 10 is
 
-//continue....
+
 
 //a     Name
 //10    Value/Body
@@ -325,7 +325,6 @@ void main()
 }
 */
 
-//Rules for Constructing Real/Float Constants
 
 /*
 void main()
