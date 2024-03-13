@@ -35,32 +35,10 @@ void main()
 }
 */
 
-// Single Line Comment //
-// /* */ - Multi Line Comment
-// \n-New Line
-// Double Slash - Comment
-// Comment - Do Not Code Executed!!!
 
-//Main.c    Compile
-//Main.obj  Run
-//Main.exe  ...
 
-//F9 - Compile + Run
 
-//C Language - Programming Language.
-//USA - 1972
-//Completed Year 50+
-//AT T's Bell Lab.(C-1972/CPP-1980 Invent!!!)
-//Dennis Ritchie
-// 2000+
 
-//C DS CPP - Java
-//Python - Data Science NUMPY PANDAS ML - C Language..
-//FlipKart - B ....
-//Data Science - second
-//Android - Java - C DS CPP
-//IOS - C/CPP
-//OS - Windows MAC Solaries
 //Windows - Assembly Language...
 //India - 7 No. 6.No
 
