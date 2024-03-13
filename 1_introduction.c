@@ -131,11 +131,6 @@ void main()
 //10/20/30      Value/Body/Overwrite
 //1002          Address/Location
 
-//Why Learn C Language?
-//Coding Familier
-//SW Job / SW
-//SW?GP Life Easy?
-//Language => Self
 
 
 /*
