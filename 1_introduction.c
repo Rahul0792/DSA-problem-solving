@@ -341,7 +341,6 @@ void main()
 */
 
 
-//=================== Session 3
 
 // Rules for Constructing Character Constants
 // Any Alpha or Any Digits or Any SS but Enclosed in
