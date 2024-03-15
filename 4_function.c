@@ -286,28 +286,6 @@ void argentina( )
 */
 
 
-//Suyash - USA JOB
-// B  G - S D C - J
-//1] D-E - 1hr 5-6      1hr
-//2] G-S - 1hr 6-7
-//3] C   - 1hr 7-8
-//4] P - Wash 1hr 8-9
-//5] R - 1 hr 9-10
-//6] D - 1 hr Mech 10-11
-//7] OF - 11-1 Off Reach
-//8] 10 hr - 1-11PM Off
-//9] D- 1 hr Mech 11-12AM
-//10] H 12-2AM
-//11] D 2-3
-//12] S 3-5
-
-//10000
-// 30 29 28 31
-// 1 -> 12AM 30K
-// 2 -> 10K
-// 3 -> 20K
-// 30+20+10.....=SUM/30 Amount 10000 Less Fine 500
-// Mobile 1
 
 
 // Passing Values between Functions -
