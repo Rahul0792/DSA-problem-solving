@@ -56,10 +56,7 @@ int main()
 }
 */
 
-//Tips & Traps
-//Collection of Similar Items/Elements
-//Similar Items/Elements?
-//But Same Data Type.
+
 
 //0     1       2       3       4           Index   0       1
 //10    20      30      40      50          Values  arr[0]  arr[1]
