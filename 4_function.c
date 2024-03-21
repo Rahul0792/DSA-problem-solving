@@ -317,13 +317,7 @@ int calculate_sum( int x,int y,int z )
 
 // ====================== Session 20
 
-//Example =>
-//C  brain => Suyash brain/ Up Down
 
-//Call By Value
-//changes in formal P/A then no change in A P/A.
-//Rule-
-//Return Only 1 Value At a time Return!!!
 
 /*
 int calculate_sum( int,int,int);
